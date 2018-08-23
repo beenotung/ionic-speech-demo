@@ -1,0 +1,7 @@
+{
+  "name": "demo-speech",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
